@@ -27,10 +27,10 @@ https://laboratory.kazuuu.net/delete-rows-with-nan-values-in-the-dataframe-in-pa
 https://kenkyujinsei.com/2021/02/06/python-%E3%81%A7-%E5%A4%A9%E6%B0%97%E4%BA%88%E5%A0%B1api%E3%81%8B%E3%82%89%E3%81%8A%E5%A4%A9%E6%B0%97%E6%83%85%E5%A0%B1%E3%82%92%E5%8F%96%E5%BE%97%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/
 
 
-おとといからきたいも（2023年12月19日）：日本語（天気予報）を英語に翻訳する．
+おとといからきたいも（2023年12月20日）：日本語（天気予報）を英語に翻訳する．
 
 https://invisiblepotato.com/python11/
 
-free journey（2023年12月19日）：音声読み上げ機能
+free journey（2023年12月20日）：音声読み上げ機能
 
 https://fjjourney.com/artificial-intelligence/text-to-speech/
