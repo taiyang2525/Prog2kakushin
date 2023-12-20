@@ -30,3 +30,7 @@ https://kenkyujinsei.com/2021/02/06/python-%E3%81%A7-%E5%A4%A9%E6%B0%97%E4%BA%88
 おとといからきたいも（2023年12月19日）：日本語（天気予報）を英語に翻訳する．
 
 https://invisiblepotato.com/python11/
+
+free journey（2023年12月19日）：音声読み上げ機能
+
+https://fjjourney.com/artificial-intelligence/text-to-speech/
