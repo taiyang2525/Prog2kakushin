@@ -98,3 +98,26 @@ Work2はExcelファイルまたはCSVファイルを行列データとして読�
 ①ColabratoryのfilesライブラリでExcelファイルをアップロードする仕様であるが，Colabがアップロードを待っている段階でキャンセルボタンを押すと，処理が中断し，エラーとなってしまう．このエラーを回避する方法（アップロードされたかされていないかを検知する方法）を探したのだが，そのような機能は搭載されていないとのことだった．本当に検知する方法がないのかや他の環境では実装できないか等を熟考していきたいと考える．
 
 ②工夫した点の５項で記述したが，n乗計算の際にdatatypeをobjectに変換している．これはオーバーフローを回避する解決策なのだが，NumPyの高速な計算処理を犠牲にしている．NumPyの高速な計算処理とオーバーフローの回避を両立できる方法がないかを調査していきたいと考える．
+
+#### 参考文献
+広島市立大学　プログラミングII　講義資料　第５週　NumPyの基礎　第６週　NumPyの応用：NumPyと行列計算について復習
+
+広島市立大学　線形代数学I，II　講義資料：行列について復習
+
+https://www.delftstack.com/ja/howto/python-pandas/how-to-convert-pandas-dataframe-to-numpy-array/
+
+DelftStack，Pandas DataFrame の列ですべての NaN 値をゼロに置き換える方法（2024年1月11日）：空白セルを0に置換
+
+https://www.delftstack.com/ja/howto/python-pandas/how-to-replace-all-the-nan-values-with-zeros-in-a-column-of-a-pandas-dataframe/
+
+いかたこのたこつぼ，Numpyのオーバーフロー回避（2024年1月11日）：NumPyのオーバーフロー回避
+
+https://ikatakos.com/pot/programming_algorithm/python_tips/avoid_overflow
+
+ITCブログ，Pythonで行列を扱う方法｜numpyの使い方を実例付きで徹底解説（2024年1月11日）：コードととともにmatrixの使い方が幅広く解説されていた．
+
+https://itc.tokyo/python/python-matrix/
+
+note.nkmk.me，pandas.DataFrame, SeriesとNumPy配列ndarrayを相互に変換（2024年1月11日）：DataFrameを行列に変換する方法
+
+https://note.nkmk.me/python-pandas-numpy-conversion/#pandasdataframe-seriesnumpyndarray
