@@ -51,3 +51,27 @@ https://invisiblepotato.com/python11/
 free journey（2023年12月20日）：音声読み上げ機能
 
 https://fjjourney.com/artificial-intelligence/text-to-speech/
+
+
+### Work2
+#### 説明と機能
+Work2はExcelファイルまたはCSVファイルを行列データとして読み込み，行列計算を行うプログラムである．
+
+
+これによって，ユーザはExcel上で行列を容易にかつ視覚的に作成し，計算を行うことができる．
+
+主に以下の機能を実装している
+
+・2つの行列の和，差，積
+
+・行列のスカラー倍，n乗
+
+・逆行列の計算
+
+・行列式の計算
+
+・固有値の計算
+
+・階数の計算
+
+・トレースの計算
