@@ -127,3 +127,5 @@ https://itc.tokyo/python/python-matrix/
 note.nkmk.me，pandas.DataFrame, SeriesとNumPy配列ndarrayを相互に変換（2024年1月11日）：DataFrameを行列に変換する方法
 
 https://note.nkmk.me/python-pandas-numpy-conversion/#pandasdataframe-seriesnumpyndarray
+
+### Work3
