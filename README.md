@@ -163,3 +163,7 @@ https://blog.novonovo.jp/python/python-%E6%96%87%E5%AD%97%E5%88%97%E3%81%8B%E3%8
 note.nkmk.me　（2024年1月19日）：OpenCVのRGB変換
 
 https://note.nkmk.me/python-opencv-bgr-rgb-cvtcolor/
+
+@derodero24(derodero)　【Python】Pillow ↔ OpenCV 変換：OCRの際にPillowに変換
+
+https://qiita.com/derodero24/items/f22c22b22451609908ee
