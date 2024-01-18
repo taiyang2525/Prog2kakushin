@@ -129,3 +129,18 @@ note.nkmk.me，pandas.DataFrame, SeriesとNumPy配列ndarrayを相互に変換�
 https://note.nkmk.me/python-pandas-numpy-conversion/#pandasdataframe-seriesnumpyndarray
 
 ### Work3
+
+#### 説明と機能
+work3は名刺データをアップロードし，読み取った情報を読み込み，連絡先登録を支援するシステムだ．読み込んだ情報はvcf形式で出力されるため，
+
+Windowsの連絡先ファイルとして機能する．
+
+work3では，名刺の次の項目を読み取り，vcfファイルに反映させる
+
+・名前
+
+・勤務先
+
+・メールアドレス
+
+・電話番号
