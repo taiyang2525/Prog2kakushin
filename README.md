@@ -144,3 +144,14 @@ work3では，名刺の次の項目を読み取り，vcfファイルに反映さ
 ・メールアドレス
 
 ・電話番号
+
+#### 参考文献
+某エンジニアのお仕事以外のメモ（分冊）　Pythonで文字を全角か半角か判別する（2024年1月19日）：全角文字の抽出
+https://water2litter.net/rum/post/python_unicodedata_east_asian_width/
+
+株式会社 asken（あすけん） Google ColabでTesseractOCRを使う方法（2024年1月19日）：名刺からのOCR
+https://qiita.com/shoku-pan/items/7a67f484a10430da6678
+
+自作で機械学習モデル・AIの使い方を学ぶ　[Python]電話番号をエスケープ !正規表現で便利なテクニック解説（2024年1月19日）：電話番号の抽出
+https://machine-learning-skill-up.com/knowledge/python%E9%9B%BB%E8%A9%B1%E7%95%AA%E5%8F%B7%E3%82%92%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97-%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE%E3%81%A7%E4%BE%BF%E5%88%A9%E3%81%AA%E3%83%86%E3%82%AF%E3%83%8B
+
