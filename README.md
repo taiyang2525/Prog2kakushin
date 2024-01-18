@@ -164,6 +164,7 @@ work3では，名刺の次の項目を読み取り，vcfファイルに反映さ
 https://water2litter.net/rum/post/python_unicodedata_east_asian_width/
 
 株式会社 asken（あすけん） Google ColabでTesseractOCRを使う方法（2024年1月19日）：名刺からのOCR
+
 https://qiita.com/shoku-pan/items/7a67f484a10430da6678
 
 自作で機械学習モデル・AIの使い方を学ぶ　[Python]電話番号をエスケープ !正規表現で便利なテクニック解説（2024年1月19日）：電話番号の抽出
