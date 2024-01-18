@@ -145,6 +145,13 @@ work3では，名刺の次の項目を読み取り，vcfファイルに反映さ
 
 ・電話番号
 
+
+#### 工夫した点
+
+#### 応用例
+
+
+
 #### 参考文献
 某エンジニアのお仕事以外のメモ（分冊）　Pythonで文字を全角か半角か判別する（2024年1月19日）：全角文字の抽出
 https://water2litter.net/rum/post/python_unicodedata_east_asian_width/
@@ -164,6 +171,10 @@ note.nkmk.me　（2024年1月19日）：OpenCVのRGB変換
 
 https://note.nkmk.me/python-opencv-bgr-rgb-cvtcolor/
 
-@derodero24(derodero)　【Python】Pillow ↔ OpenCV 変換：OCRの際にPillowに変換
+@derodero24(derodero)　【Python】Pillow ↔ OpenCV 変換（2024年1月19日）：OCRの際にPillowに変換
 
 https://qiita.com/derodero24/items/f22c22b22451609908ee
+
+ecoAGI PyPDF2：PDFの操作のための究極のPythonライブラリ（2024年1月19日）：PDFの分割（１ページのみ抽出）
+
+https://ecoagi.ai/ja/topics/Python/pypdf2-python-pdf
