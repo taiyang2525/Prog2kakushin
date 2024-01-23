@@ -55,7 +55,7 @@ free journey（2023年12月20日）：音声読み上げ機能
 https://fjjourney.com/artificial-intelligence/text-to-speech/
 
 
-### Work2
+### [Work2](https://github.com/taiyang2525/Prog2kakushin/work2.ipynb)
 ------------
 
 #### 説明と機能
@@ -133,7 +133,7 @@ note.nkmk.me，pandas.DataFrame, SeriesとNumPy配列ndarrayを相互に変換�
 https://note.nkmk.me/python-pandas-numpy-conversion/#pandasdataframe-seriesnumpyndarray
 
 
-### Work3
+### [Work3](https://github.com/taiyang2525/Prog2kakushin/work3.ipynb)
 ------------
 
 #### 説明と機能
