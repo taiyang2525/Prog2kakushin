@@ -4,6 +4,8 @@
 コメントなどいただければ幸いだ．
 
 ### Work1
+============
+
 #### 説明と機能
 Work1はユーザにそれぞれの都道府県名に対応する数字（0から46の整数）を求めることで，気象情報を出力するプログラムである．また，天気予報の音声を日本語と英語で出力してくれる．
 
@@ -54,6 +56,8 @@ https://fjjourney.com/artificial-intelligence/text-to-speech/
 
 
 ### Work2
+============
+
 #### 説明と機能
 Work2はExcelファイルまたはCSVファイルを行列データとして読み込み，行列計算を行うプログラムである．
 
@@ -129,6 +133,8 @@ note.nkmk.me，pandas.DataFrame, SeriesとNumPy配列ndarrayを相互に変換�
 https://note.nkmk.me/python-pandas-numpy-conversion/#pandasdataframe-seriesnumpyndarray
 
 ### Work3
+============
+
 #### 説明と機能
 work3は名刺データをアップロードし，読み取った情報を読み込み，連絡先登録を支援するシステムだ．読み込んだ情報はvcf形式で出力されるため，Windowsの連絡先ファイルとして機能する．
 
