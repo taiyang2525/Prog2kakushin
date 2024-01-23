@@ -129,11 +129,8 @@ note.nkmk.me，pandas.DataFrame, SeriesとNumPy配列ndarrayを相互に変換�
 https://note.nkmk.me/python-pandas-numpy-conversion/#pandasdataframe-seriesnumpyndarray
 
 ### Work3
-
 #### 説明と機能
-work3は名刺データをアップロードし，読み取った情報を読み込み，連絡先登録を支援するシステムだ．読み込んだ情報はvcf形式で出力されるため，
-
-Windowsの連絡先ファイルとして機能する．
+work3は名刺データをアップロードし，読み取った情報を読み込み，連絡先登録を支援するシステムだ．読み込んだ情報はvcf形式で出力されるため，Windowsの連絡先ファイルとして機能する．
 
 work3では，名刺の次の項目を読み取り，vcfファイルに反映させる
 
@@ -144,6 +141,26 @@ work3では，名刺の次の項目を読み取り，vcfファイルに反映さ
 ・メールアドレス
 
 ・電話番号
+
+#### 使い方
+①Google Colaboratory上で上から順番にプログラムを実行し，PDFファイルをアップロードする．
+
+<img width="760" alt="image" src="https://github.com/taiyang2525/Prog2kakushin/assets/145079223/0b83977c-f54a-4e12-bcbc-d56c9b32f427">
+
+②自動で名刺情報を読み込む．情報を読み込む際，誤ることもあるため，ユーザは読み込んだ情報を確認し，誤りがあれば変更できる．
+<img width="890" alt="image" src="https://github.com/taiyang2525/Prog2kakushin/assets/145079223/bb9bee59-828c-4120-be46-a34164a3ce1d">
+
+③もう一つ下のセルを実行する．すると，読み込んだ名刺の情報をvcfファイルで出力する．
+<img width="848" alt="image" src="https://github.com/taiyang2525/Prog2kakushin/assets/145079223/0c0f173a-169f-45f2-b304-7a8ba77844f4">
+
+④名前.vcfでColablatoryのファイルにvcfファイルが出力されている．Colabratoryのファイルタブから確認できる．また，vcfファイルをローカルの環境にダウンロードすると連絡先として活用できる．
+<img width="1082" alt="image" src="https://github.com/taiyang2525/Prog2kakushin/assets/145079223/7d63ee11-827f-4c6e-a2d7-40afda6d5234">
+
+vcfファイルを読み込んだ状態（Windows11 英語環境）
+<img width="1127" alt="image" src="https://github.com/taiyang2525/Prog2kakushin/assets/145079223/6fdcb242-c1d1-4a1e-b9f9-8baee8bf5c8d">
+
+
+
 
 
 #### 工夫した点
