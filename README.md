@@ -132,6 +132,7 @@ note.nkmk.me，pandas.DataFrame, SeriesとNumPy配列ndarrayを相互に変換�
 
 https://note.nkmk.me/python-pandas-numpy-conversion/#pandasdataframe-seriesnumpyndarray
 
+
 ### Work3
 ------------
 
